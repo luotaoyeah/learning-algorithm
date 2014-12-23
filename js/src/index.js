@@ -1,1 +1,1 @@
-require("./book/data-structures-and-algorithms-with-javascript/01-the-javascript-programming-environment-and-model/01-02-javascript-programming-practices/01-02-07/01-02-07-01");
+require("./book/data-structures-and-algorithms-with-javascript/01-the-javascript-programming-environment-and-model/01-03-objects-and-oop/01-03-01/01-03-01-01");
