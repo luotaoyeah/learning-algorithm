@@ -17,8 +17,8 @@ console.log("\n-------------------------------------------------- 01");
     }
   }
 
-  const arr01 = [1, 2, 3];
-  const arr02 = [];
+  var arr01 = [1, 2, 3];
+  var arr02 = [];
   deepCopy(arr01, arr02);
 
   arr01[1] = 9;
