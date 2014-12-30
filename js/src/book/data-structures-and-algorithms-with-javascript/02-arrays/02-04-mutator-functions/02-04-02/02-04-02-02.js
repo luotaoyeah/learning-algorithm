@@ -2,20 +2,20 @@
  * Arrays
  *     Mutator Functions
  *         Removing Elements from an Array
- *             Array.prototype.pop()
+ *             Array.prototype.shift()
  */
 
 console.log("\n-------------------------------------------------- 01");
 (function() {
   /*
-   * Array.prototype.pop() 方法，跟 Array.prototype.push() 方法操作相反，
-   * 从数组的最后面移除一个元素，并返回被移除的元素
+   * Array.prototype.shift() 方法，跟 Array.prototype.unshift() 方法操作相反，
+   * 从数组的最前面移除一个元素，并返回该移除的元素
    */
 
   var arr = [1, 2, 3, 4];
-  var n = arr.pop();
-  console.log(n); // 4
-  console.log(arr); // [ 1, 2, 3 ]
+  var n = arr.shift();
+  console.log(n); // 1
+  console.log(arr); // [ 2, 3, 4 ]
 })();
 
 console.log("\n-------------------------------------------------- 02");
@@ -25,7 +25,7 @@ console.log("\n-------------------------------------------------- 02");
    */
 
   var arr = [];
-  var n = arr.pop();
+  var n = arr.shift();
   console.log(n); // undefined
   console.log(arr); // []
 })();
