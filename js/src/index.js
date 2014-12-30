@@ -1,1 +1,1 @@
-require("./book/data-structures-and-algorithms-with-javascript/02-arrays/02-04-mutator-functions/02-04-01/02-04-01-02");
+require("./book/data-structures-and-algorithms-with-javascript/02-arrays/02-04-mutator-functions/02-04-02/02-04-02-01");
