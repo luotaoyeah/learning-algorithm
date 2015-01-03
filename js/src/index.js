@@ -1,1 +1,1 @@
-require("./book/data-structures-and-algorithms-with-javascript/02-arrays/02-07-arrays-of-objects/02-07-01/02-07-01-01");
+require("./book/data-structures-and-algorithms-with-javascript/02-arrays/02-08-arrays-in-objects/02-08-01/02-08-01-01");
